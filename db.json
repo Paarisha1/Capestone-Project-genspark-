@@ -1,0 +1,282 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Jumping Jacks",
+      "category": "Cardio",
+      "description": "Start with your feet together and arms at your sides. Jump while spreading your legs and raising your arms overhead. Return to the starting position and repeat."
+    },
+    {
+      "id": 2,
+      "name": "Burpees",
+      "category": "Cardio",
+      "description": "Begin in a standing position. Drop into a squat with your hands on the ground. Kick your feet back into a push-up position, then return your feet to the squat position. Jump up explosively from the squat."
+    },
+    {
+      "id": 3,
+      "name": "Mountain Climbers",
+      "category": "Cardio",
+      "description": "Start in a push-up position with your arms straight. Drive one knee toward your chest, then quickly switch legs in a running motion while keeping your hands on the ground."
+    },
+    {
+      "id": 4,
+      "name": "Jump Rope",
+      "category": "Cardio",
+      "description": "Hold the rope handles in each hand and stand with the rope behind you. Swing the rope over your head and jump as it passes under your feet. Continue in a rhythmic motion."
+    },
+    {
+      "id": 5,
+      "name": "Cycling",
+      "category": "Cardio",
+      "description": "Sit on a bike with your feet on the pedals. Push down on one pedal while pulling up on the other, rotating your legs in a continuous motion. Adjust the intensity as needed."
+    },
+    {
+      "id": 6,
+      "name": "Deadlifts",
+      "category": "Strength Training",
+      "description": "Stand with your feet shoulder-width apart. Grip the barbell with both hands. Keeping your back straight, lift the barbell by extending your hips and knees until you're standing upright. Lower it back down and repeat."
+    },
+    {
+      "id": 7,
+      "name": "Bench Press",
+      "category": "Strength Training",
+      "description": "Lie on a flat bench with your feet firmly on the ground. Grip the barbell slightly wider than shoulder-width. Lower the bar to your chest, then press it back up until your arms are fully extended."
+    },
+    {
+      "id": 8,
+      "name": "Pull-Ups",
+      "category": "Strength Training",
+      "description": "Hang from a pull-up bar with your palms facing away. Pull yourself up until your chin is above the bar, then lower yourself back down with control."
+    },
+    {
+      "id": 9,
+      "name": "Overhead Press",
+      "category": "Strength Training",
+      "description": "Stand with your feet shoulder-width apart and hold a barbell at shoulder height. Press the barbell overhead until your arms are fully extended, then lower it back down to shoulder height."
+    },
+    {
+      "id": 10,
+      "name": "Squats",
+      "category": "Strength Training",
+      "description": "Stand with your feet shoulder-width apart. Lower your body by bending your hips and knees, keeping your chest upright. Push through your heels to return to standing."
+    },
+    {
+      "id": 11,
+      "name": "Forward Fold",
+      "category": "Flexibility",
+      "description": "Stand with your feet together. Hinge at your hips and reach your hands toward the ground while keeping your legs straight. Hold for a few seconds, then slowly rise back up."
+    },
+    {
+      "id": 12,
+      "name": "Downward Dog",
+      "category": "Flexibility",
+      "description": "Start on all fours. Lift your hips upward and straighten your legs, forming an inverted V shape. Keep your hands and feet firmly on the ground."
+    },
+    {
+      "id": 13,
+      "name": "Butterfly Stretch",
+      "category": "Flexibility",
+      "description": "Sit on the ground with your feet together and knees bent outward. Hold your feet with your hands and gently press your knees toward the ground."
+    },
+    {
+      "id": 14,
+      "name": "Cat-Cow Pose",
+      "category": "Flexibility",
+      "description": "Start on all fours. Arch your back upward like a cat, then lower your belly and lift your head and tailbone like a cow. Alternate between the two poses."
+    },
+    {
+      "id": 15,
+      "name": "Seated Forward Bend",
+      "category": "Flexibility",
+      "description": "Sit on the ground with your legs straight. Hinge forward at your hips and reach for your feet while keeping your back straight."
+    },
+    {
+      "id": 16,
+      "name": "Plank",
+      "category": "Core",
+      "description": "Start in a push-up position but rest your weight on your forearms. Keep your body in a straight line from head to heels. Hold the position for as long as you can."
+    },
+    {
+      "id": 17,
+      "name": "Russian Twists",
+      "category": "Core",
+      "description": "Sit on the ground with your knees bent and feet off the floor. Lean back slightly and twist your torso from side to side, tapping the ground with your hands."
+    },
+    {
+      "id": 18,
+      "name": "Crunches",
+      "category": "Core",
+      "description": "Lie on your back with your knees bent and hands behind your head. Lift your shoulders off the ground while engaging your core, then lower back down."
+    },
+    {
+      "id": 19,
+      "name": "Bicycle Crunches",
+      "category": "Core",
+      "description": "Lie on your back with your hands behind your head. Bring one knee toward your chest while lifting your opposite shoulder off the ground, mimicking a pedaling motion."
+    },
+    {
+      "id": 20,
+      "name": "Side Plank",
+      "category": "Core",
+      "description": "Lie on your side with your forearm on the ground. Lift your hips until your body forms a straight line from head to heels. Hold and repeat on the other side."
+    },
+        {
+          "id": 21,
+          "name": "Farmer's Walk",
+          "category": "Functional Training",
+          "description": "Hold a heavy dumbbell in each hand and walk a set distance while keeping your core engaged and back straight."
+        },
+        {
+          "id": 22,
+          "name": "Kettlebell Swings",
+          "category": "Functional Training",
+          "description": "Hold a kettlebell with both hands and swing it between your legs. Drive your hips forward to lift the kettlebell to chest level."
+        },
+        {
+          "id": 23,
+          "name": "Medicine Ball Slams",
+          "category": "Functional Training",
+          "description": "Lift a medicine ball overhead and slam it forcefully onto the ground, engaging your entire body."
+        },
+        {
+          "id": 24,
+          "name": "Battle Ropes",
+          "category": "Functional Training",
+          "description": "Hold a battle rope in each hand and create waves by moving your arms up and down explosively."
+        },
+        {
+          "id": 25,
+          "name": "Step-Ups with Dumbbells",
+          "category": "Functional Training",
+          "description": "Hold dumbbells in each hand and step onto a bench or box, alternating legs with each step."
+        },
+
+     
+        {
+          "id": 26,
+          "name": "Single-Leg Deadlifts",
+          "category": "Balance",
+          "description": "Stand on one leg and hinge forward at the hips while extending the other leg back. Return to standing and repeat."
+        },
+        {
+          "id": 27,
+          "name": "BOSU Ball Squats",
+          "category": "Balance",
+          "description": "Perform squats while standing on a BOSU ball to improve stability and balance."
+        },
+        {
+          "id": 28,
+          "name": "Tree Pose",
+          "category": "Balance",
+          "description": "Stand on one leg and place the sole of your other foot against your inner thigh. Raise your hands overhead for balance."
+        },
+        {
+          "id": 29,
+          "name": "Heel-to-Toe Walk",
+          "category": "Balance",
+          "description": "Walk in a straight line, placing the heel of one foot directly in front of the toes of the other foot."
+        },
+        {
+          "id": 30,
+          "name": "Stability Ball Plank",
+          "category": "Balance",
+          "description": "Perform a plank with your forearms resting on a stability ball to challenge your core and balance."
+        },
+
+      
+        {
+          "id": 31,
+          "name": "Long-Distance Running",
+          "category": "Endurance",
+          "description": "Run at a steady pace for an extended period to build cardiovascular endurance."
+        },
+        {
+          "id": 32,
+          "name": "Swimming Laps",
+          "category": "Endurance",
+          "description": "Swim multiple laps at a consistent pace to improve stamina and lung capacity."
+        },
+        {
+          "id": 33,
+          "name": "Rowing Machine Intervals",
+          "category": "Endurance",
+          "description": "Alternate between high-intensity rowing and recovery periods to build endurance."
+        },
+        {
+          "id": 34,
+          "name": "Stair Climbing",
+          "category": "Endurance",
+          "description": "Climb a set of stairs repeatedly to improve leg strength and cardiovascular endurance."
+        },
+        {
+          "id": 35,
+          "name": "Cycling for Distance",
+          "category": "Endurance",
+          "description": "Ride a bike for a long distance at a moderate pace to improve overall stamina."
+        },
+
+      
+        {
+          "id": 36,
+          "name": "Box Jumps",
+          "category": "Plyometric",
+          "description": "Jump onto a sturdy box or platform and step back down to improve explosive power."
+        },
+        {
+          "id": 37,
+          "name": "Lateral Bounds",
+          "category": "Plyometric",
+          "description": "Jump laterally from one side to the other, landing softly and maintaining control."
+        },
+        {
+          "id": 38,
+          "name": "Clapping Push-Ups",
+          "category": "Plyometric",
+          "description": "Perform a push-up and push off the ground forcefully enough to clap your hands before landing."
+        },
+        {
+          "id": 39,
+          "name": "Broad Jumps",
+          "category": "Plyometric",
+          "description": "Jump forward as far as possible, landing softly and resetting for the next jump."
+        },
+        {
+          "id": 40,
+          "name": "Depth Jumps",
+          "category": "Plyometric",
+          "description": "Step off a box and immediately jump vertically as soon as you hit the ground."
+        },
+
+      
+        {
+          "id": 41,
+          "name": "Foam Rolling",
+          "category": "Recovery",
+          "description": "Use a foam roller to massage sore muscles and improve blood circulation for faster recovery."
+        },
+        {
+          "id": 42,
+          "name": "Child’s Pose",
+          "category": "Recovery",
+          "description": "Kneel on the ground and stretch your arms forward, resting your forehead on the ground to relax your back and shoulders."
+        },
+        {
+          "id": 43,
+          "name": "Leg-Up Wall Stretch",
+          "category": "Recovery",
+          "description": "Lie on your back with your legs extended up against a wall to improve circulation and relax the lower body."
+        },
+        {
+          "id": 44,
+          "name": "Seated Forward Bend",
+          "category": "Recovery",
+          "description": "Sit on the ground with your legs extended and reach for your toes to stretch your hamstrings and lower back."
+        },
+        {
+          "id": 45,
+          "name": "Deep Breathing",
+          "category": "Recovery",
+          "description": "Sit or lie down in a comfortable position. Breathe deeply through your nose, holding for a few seconds before exhaling slowly through your mouth."
+        }
+      ]
+    }
